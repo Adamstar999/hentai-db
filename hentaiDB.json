@@ -1,929 +1,682 @@
 {
-  "artists": [
-    {
-      "name": "afrobull",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=afrobull",
-      "categories": [
-        "images"
-      ],
-      "id": 0
-    },
-    {
-      "name": "Mark Gavatino",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Mark Gavatino",
-      "categories": [
-        "images"
-      ],
-      "id": 1
-    },
-    {
-      "name": "slugbox",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=slugbox",
-      "categories": [
-        "images"
-      ],
-      "id": 2
-    },
-    {
-      "name": "Neocoill",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Neocoill",
-      "categories": [
-        "images"
-      ],
-      "id": 3
-    },
-    {
-      "name": "Jtveemo",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Jtveemo",
-      "categories": [
-        "images"
-      ],
-      "id": 4
-    },
-    {
-      "name": "ndgd",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=ndgd",
-      "categories": [
-        "images"
-      ],
-      "id": 5
-    },
-    {
-      "name": "samerupa",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=samerupa",
-      "categories": [
-        "images"
-      ],
-      "id": 6
-    },
-    {
-      "name": "mixplin",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=mixplin",
-      "categories": [
-        "images"
-      ],
-      "id": 7
-    },
-    {
-      "name": "zeroshiki_kouichi",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=zeroshiki_kouichi",
-      "categories": [
-        "images"
-      ],
-      "id": 8
-    },
-    {
-      "name": "topu",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=topu",
-      "categories": [
-        "images"
-      ],
-      "id": 9
-    },
-    {
-      "name": "gweda",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=gweda",
-      "categories": [
-        "images"
-      ],
-      "id": 10
-    },
-    {
-      "name": "thiccwithaq",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=thiccwithaq",
-      "categories": [
-        "images"
-      ],
-      "id": 11
-    },
-    {
-      "name": "rak_(kuraga)",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=rak_(kuraga)",
-      "categories": [
-        "images"
-      ],
-      "id": 12
-    },
-    {
-      "name": "exlic",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=exlic",
-      "categories": [
-        "images"
-      ],
-      "id": 13
-    },
-    {
-      "name": "terufuu",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=terufuu",
-      "categories": [
-        "images"
-      ],
-      "id": 14
-    },
-    {
-      "name": "blue-senpai",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=blue-senpai",
-      "categories": [
-        "images"
-      ],
-      "id": 15
-    },
-    {
-      "name": "blacksaikou",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=blacksaikou",
-      "categories": [
-        "images"
-      ],
-      "id": 16
-    },
-    {
-      "name": "sawada_yuusuke",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=sawada_yuusuke",
-      "categories": [
-        "images"
-      ],
-      "id": 17
-    },
-    {
-      "name": "magukappu",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=magukappu",
-      "categories": [
-        "images"
-      ],
-      "id": 18
-    },
-    {
-      "name": "akchu",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=akchu",
-      "categories": [
-        "images"
-      ],
-      "id": 19
-    },
-    {
-      "name": "alpha_(alpha91)",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=alpha_(alpha91)",
-      "categories": [
-        "images"
-      ],
-      "id": 20
-    },
-    {
-      "name": "cianyo",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=cianyo",
-      "categories": [
-        "images"
-      ],
-      "id": 21
-    },
-    {
-      "name": "hews_hack",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=hews_hack",
-      "categories": [
-        "images"
-      ],
-      "id": 22
-    },
-    {
-      "name": "mukka",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=mukka",
-      "categories": [
-        "images"
-      ],
-      "id": 23
-    },
-    {
-      "name": "powergene",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=powergene",
-      "categories": [
-        "images"
-      ],
-      "id": 24
-    },
-    {
-      "name": "genjung",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=genjung",
-      "categories": [
-        "images"
-      ],
-      "id": 25
-    },
-    {
-      "name": "lasterk",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=lasterk",
-      "categories": [
-        "images"
-      ],
-      "id": 26
-    },
-    {
-      "name": "ricegnat",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=ricegnat",
-      "categories": [
-        "images"
-      ],
-      "id": 27
-    },
-    {
-      "name": "tamada_heijun",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=tamada_heijun",
-      "categories": [
-        "images"
-      ],
-      "id": 28
-    },
-    {
-      "name": "iparuputsua",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=iparuputsua",
-      "categories": [
-        "images"
-      ],
-      "id": 29
-    },
-    {
-      "name": "zaphn",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=zaphn",
-      "categories": [
-        "images"
-      ],
-      "id": 30
-    },
-    {
-      "name": "jasony",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=jasony",
-      "categories": [
-        "images"
-      ],
-      "id": 31
-    },
-    {
-      "name": "haikome",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=haikome",
-      "categories": [
-        "images"
-      ],
-      "id": 32
-    },
-    {
-      "name": "yohan1754",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=yohan1754",
-      "categories": [
-        "images"
-      ],
-      "id": 33
-    },
-    {
-      "name": "meekohopanes",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=meekohopanes",
-      "categories": [
-        "images"
-      ],
-      "id": 34
-    },
-    {
-      "name": "miraihikari",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=miraihikari",
-      "categories": [
-        "images"
-      ],
-      "id": 35
-    },
-    {
-      "name": "hanpenmaru",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=hanpenmaru",
-      "categories": [
-        "images"
-      ],
-      "id": 36
-    },
-    {
-      "name": "pinkseito",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=pinkseito",
-      "categories": [
-        "images"
-      ],
-      "id": 37
-    },
-    {
-      "name": "aster_crowley",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=aster_crowley",
-      "categories": [
-        "images"
-      ],
-      "id": 38
-    },
-    {
-      "name": "greem_bang",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=greem_bang",
-      "categories": [
-        "images"
-      ],
-      "id": 39
-    },
-    {
-      "name": "belko",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=belko",
-      "categories": [
-        "images"
-      ],
-      "id": 40
-    },
-    {
-      "name": "nuezou",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=nuezou",
-      "categories": [
-        "images"
-      ],
-      "id": 41
-    },
-    {
-      "name": "paranoiddroid",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=paranoiddroid",
-      "categories": [
-        "images"
-      ],
-      "id": 42
-    },
-    {
-      "name": "muunai",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=muunai",
-      "categories": [
-        "images"
-      ],
-      "id": 43
-    },
-    {
-      "name": "noaharbre",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=noaharbre",
-      "categories": [
-        "images"
-      ],
-      "id": 44
-    },
-    {
-      "name": "bokuman",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=bokuman",
-      "categories": [
-        "images"
-      ],
-      "id": 45
-    },
-    {
-      "name": "Shexyo",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Shexyo",
-      "categories": [
-        "images"
-      ],
-      "id": 46
-    },
-    {
-      "name": "kanachirou",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=kanachirou",
-      "categories": [
-        "images"
-      ],
-      "id": 47
-    },
-    {
-      "name": "tnolize",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=tnolize",
-      "categories": [
-        "images"
-      ],
-      "id": 48
-    },
-    {
-      "name": "tehhank",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=tehhank",
-      "categories": [
-        "images"
-      ],
-      "id": 49
-    },
-    {
-      "name": "queasy_s",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=queasy_s",
-      "categories": [
-        "images"
-      ],
-      "id": 50
-    },
-    {
-      "name": "r3dstar",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=r3dstar",
-      "categories": [
-        "images"
-      ],
-      "id": 51
-    },
-    {
-      "name": "blue_gk",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=blue_gk",
-      "categories": [
-        "images"
-      ],
-      "id": 52
-    },
-    {
-      "name": "shamashiel",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=shamashiel",
-      "categories": [
-        "images"
-      ],
-      "id": 53
-    },
-    {
-      "name": "moursho",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=moursho",
-      "categories": [
-        "images"
-      ],
-      "id": 54
-    },
-    {
-      "name": "jmg",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=jmg",
-      "categories": [
-        "images"
-      ],
-      "id": 55
-    },
-    {
-      "name": "amadeen",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=amadeen",
-      "categories": [
-        "images"
-      ],
-      "id": 56
-    },
-    {
-      "name": "alamanderarts",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=alamanderarts",
-      "categories": [
-        "images"
-      ],
-      "id": 57
-    },
-    {
-      "name": "ai_love_higokko",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=ai_love_higokko",
-      "categories": [
-        "images"
-      ],
-      "id": 58
-    },
-    {
-      "name": "stuffyai",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=stuffyai",
-      "categories": [
-        "images"
-      ],
-      "id": 59
-    },
-    {
-      "name": "Derpixon",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Derpixon",
-      "categories": [
-        "videos"
-      ],
-      "id": 60
-    },
-    {
-      "name": "Skello",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Skello",
-      "categories": [
-        "videos"
-      ],
-      "id": 61
-    },
-    {
-      "name": "theobrobine",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=theobrobine",
-      "categories": [
-        "videos"
-      ],
-      "id": 62
-    },
-    {
-      "name": "Maenchu",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Maenchu",
-      "categories": [
-        "videos"
-      ],
-      "id": 63
-    },
-    {
-      "name": "kamuo",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=kamuo",
-      "categories": [
-        "videos"
-      ],
-      "id": 64
-    },
-    {
-      "name": "jxh33",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=jxh33",
-      "categories": [
-        "videos"
-      ],
-      "id": 65
-    },
-    {
-      "name": "Buckethead_ero",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Buckethead_ero",
-      "categories": [
-        "videos"
-      ],
-      "id": 66
-    },
-    {
-      "name": "waero",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=waero",
-      "categories": [
-        "videos"
-      ],
-      "id": 67
-    },
-    {
-      "name": "horosuke",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=horosuke",
-      "categories": [
-        "videos"
-      ],
-      "id": 68
-    },
-    {
-      "name": "Laceysx",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Laceysx",
-      "categories": [
-        "videos"
-      ],
-      "id": 69
-    },
-    {
-      "name": "Masterploxy",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Masterploxy",
-      "categories": [
-        "videos"
-      ],
-      "id": 70
-    },
-    {
-      "name": "rinhee",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=rinhee",
-      "categories": [
-        "videos"
-      ],
-      "id": 71
-    },
-    {
-      "name": "jakada",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=jakada",
-      "categories": [
-        "videos"
-      ],
-      "id": 72
-    },
-    {
-      "name": "d-art",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=d-art",
-      "categories": [
-        "videos"
-      ],
-      "id": 73
-    },
-    {
-      "name": "exga",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=exga",
-      "categories": [
-        "videos"
-      ],
-      "id": 74
-    },
-    {
-      "name": "totoro_on",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=totoro_on",
-      "categories": [
-        "videos"
-      ],
-      "id": 75
-    },
-    {
-      "name": "thecount",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=thecount",
-      "categories": [
-        "videos"
-      ],
-      "id": 76
-    },
-    {
-      "name": "ryanreos",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=ryanreos",
-      "categories": [
-        "videos"
-      ],
-      "id": 77
-    },
-    {
-      "name": "bewyx",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=bewyx",
-      "categories": [
-        "videos"
-      ],
-      "id": 78
-    },
-    {
-      "name": "grand_cupido",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=grand_cupido",
-      "categories": [
-        "videos"
-      ],
-      "id": 79
-    },
-    {
-      "name": "Nagoonimation",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Nagoonimation",
-      "categories": [
-        "videos"
-      ],
-      "id": 80
-    },
-    {
-      "name": "threedust",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=threedust",
-      "categories": [
-        "videos"
-      ],
-      "id": 81
-    },
-    {
-      "name": "conseitnsfw",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=conseitnsfw",
-      "categories": [
-        "videos"
-      ],
-      "id": 82
-    },
-    {
-      "name": "guiltyk",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=guiltyk",
-      "categories": [
-        "videos"
-      ],
-      "id": 83
-    },
-    {
-      "name": "shinki",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=shinki",
-      "categories": [
-        "videos"
-      ],
-      "id": 84
-    },
-    {
-      "name": "haruya3d",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=haruya3d",
-      "categories": [
-        "videos"
-      ],
-      "id": 85
-    },
-    {
-      "name": "tdontran",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=tdontran",
-      "categories": [
-        "videos"
-      ],
-      "id": 86
-    },
-    {
-      "name": "speedoru",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=speedoru",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 87
-    },
-    {
-      "name": "Sakimi chan",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Sakimi chan",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 88
-    },
-    {
-      "name": "nt00",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=nt00",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 89
-    },
-    {
-      "name": "rebe11",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=rebe11",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 90
-    },
-    {
-      "name": "Vadaboob",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Vadaboob",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 91
-    },
-    {
-      "name": "whisperingfornothing",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=whisperingfornothing",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 92
-    },
-    {
-      "name": "sunsetniva",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=sunsetniva",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 93
-    },
-    {
-      "name": "waterring",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=waterring",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 94
-    },
-    {
-      "name": "lambda",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=lambda",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 95
-    },
-    {
-      "name": "unfairr",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=unfairr",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 96
-    },
-    {
-      "name": "m-da_s-tarou",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=m-da_s-tarou",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 97
-    },
-    {
-      "name": "kimoshi",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=kimoshi",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 98
-    },
-    {
-      "name": "landidzu",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=landidzu",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 99
-    },
-    {
-      "name": "mapar",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=mapar",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 100
-    },
-    {
-      "name": "Scruffmuhgruff",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Scruffmuhgruff",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 101
-    },
-    {
-      "name": "kaedeno_yuu",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=kaedeno_yuu",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 102
-    },
-    {
-      "name": "metal_owl",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=metal_owl",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 103
-    },
-    {
-      "name": "soso_(chlgksk110) ",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=soso_(chlgksk110) ",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 104
-    },
-    {
-      "name": "cervina7",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=cervina7",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 105
-    },
-    {
-      "name": "menoziriath",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=menoziriath",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 106
-    },
-    {
-      "name": "minus8",
-      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=minus8",
-      "categories": [
-        "videos",
-        "images"
-      ],
-      "id": 107
-    },
-    {
-      "name": "noripachi",
-      "url": "https://nhentai.net/artist/noripachi/",
-      "categories": [
-        "doujin"
-      ],
-      "id": 108
-    },
-    {
-      "name": "ratatatat74",
-      "url": "https://nhentai.net/artist/ratatatat74/",
-      "categories": [
-        "doujin"
-      ],
-      "id": 109
-    },
-    {
-      "name": "jet_puri",
-      "url": "https://nhentai.net/artist/jet_puri/",
-      "categories": [
-        "doujin"
-      ],
-      "id": 110
-    },
-    {
-      "name": "akazai",
-      "url": "https://nhentai.net/artist/akazai/",
-      "categories": [
-        "doujin"
-      ],
-      "id": 111
-    },
-    {
-      "name": "Bobtheneet",
-      "url": "https://e-hentai.org/g/2712998/b5d501a962/",
-      "categories": [
-        "images"
-      ],
-      "id": 112
-    }
-  ]
+    "artists": [
+        {
+            "name": "Afrobull",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=afrobull",
+            "categories": ["images"],
+            "id": 0
+        },
+        {
+            "name": "Mark Gavatino",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=mark_gavatino",
+            "categories": ["images"],
+            "id": 1
+        },
+        {
+            "name": "slugbox",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=slugbox",
+            "categories": ["images"],
+            "id": 2
+        },
+        {
+            "name": "Neocoill",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Neocoill",
+            "categories": ["images"],
+            "id": 3
+        },
+        {
+            "name": "Jtveemo",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Jtveemo",
+            "categories": ["images"],
+            "id": 4
+        },
+        {
+            "name": "ndgd",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=ndgd",
+            "categories": ["images"],
+            "id": 5
+        },
+        {
+            "name": "Samerupa",
+            "url": "https://imhentai.xxx/gallery/496368/",
+            "categories": ["images"],
+            "id": 6
+        },
+        {
+            "name": "mixplin",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=mixplin",
+            "categories": ["images"],
+            "id": 7
+        },
+        {
+            "name": "zeroshiki_kouichi",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=zeroshiki_kouichi",
+            "categories": ["images"],
+            "id": 8
+        },
+        {
+            "name": "topu",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=topu",
+            "categories": ["images"],
+            "id": 9
+        },
+        {
+            "name": "gweda",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=gweda",
+            "categories": ["images"],
+            "id": 10
+        },
+        {
+            "name": "thiccwithaq",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=thiccwithaq",
+            "categories": ["images"],
+            "id": 11
+        },
+        {
+            "name": "rak_(kuraga)",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=rak_(kuraga)",
+            "categories": ["images"],
+            "id": 12
+        },
+        {
+            "name": "exlic",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=exlic",
+            "categories": ["images"],
+            "id": 13
+        },
+        {
+            "name": "terufuu",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=terufuu",
+            "categories": ["images"],
+            "id": 14
+        },
+        {
+            "name": "blue-senpai",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=blue-senpai",
+            "categories": ["images"],
+            "id": 15
+        },
+        {
+            "name": "blacksaikou",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=blacksaikou",
+            "categories": ["images"],
+            "id": 16
+        },
+        {
+            "name": "sawada_yuusuke",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=sawada_yuusuke",
+            "categories": ["images"],
+            "id": 17
+        },
+        {
+            "name": "magukappu",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=magukappu",
+            "categories": ["images"],
+            "id": 18
+        },
+        {
+            "name": "akchu",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=akchu",
+            "categories": ["images"],
+            "id": 19
+        },
+        {
+            "name": "alpha_(alpha91)",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=alpha_(alpha91)",
+            "categories": ["images"],
+            "id": 20
+        },
+        {
+            "name": "cianyo",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=cianyo",
+            "categories": ["images"],
+            "id": 21
+        },
+        {
+            "name": "hews_hack",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=hews_hack",
+            "categories": ["images"],
+            "id": 22
+        },
+        {
+            "name": "mukka",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=mukka",
+            "categories": ["images"],
+            "id": 23
+        },
+        {
+            "name": "powergene",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=powergene",
+            "categories": ["images"],
+            "id": 24
+        },
+        {
+            "name": "genjung",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=genjung",
+            "categories": ["images"],
+            "id": 25
+        },
+        {
+            "name": "lasterk",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=lasterk",
+            "categories": ["images"],
+            "id": 26
+        },
+        {
+            "name": "ricegnat",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=ricegnat",
+            "categories": ["images"],
+            "id": 27
+        },
+        {
+            "name": "tamada_heijun",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=tamada_heijun",
+            "categories": ["images"],
+            "id": 28
+        },
+        {
+            "name": "iparuputsua",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=iparuputsua",
+            "categories": ["images"],
+            "id": 29
+        },
+        {
+            "name": "zaphn",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=zaphn",
+            "categories": ["images"],
+            "id": 30
+        },
+        {
+            "name": "jasony",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=jasony",
+            "categories": ["images"],
+            "id": 31
+        },
+        {
+            "name": "haikome",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=haikome",
+            "categories": ["images"],
+            "id": 32
+        },
+        {
+            "name": "yohan1754",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=yohan1754",
+            "categories": ["images"],
+            "id": 33
+        },
+        {
+            "name": "meekohopanes",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=meekohopanes",
+            "categories": ["images"],
+            "id": 34
+        },
+        {
+            "name": "miraihikari",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=miraihikari",
+            "categories": ["images"],
+            "id": 35
+        },
+        {
+            "name": "hanpenmaru",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=hanpenmaru",
+            "categories": ["images"],
+            "id": 36
+        },
+        {
+            "name": "pinkseito",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=pinkseito",
+            "categories": ["images"],
+            "id": 37
+        },
+        {
+            "name": "aster_crowley",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=aster_crowley",
+            "categories": ["images"],
+            "id": 38
+        },
+        {
+            "name": "greem_bang",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=greem_bang",
+            "categories": ["images"],
+            "id": 39
+        },
+        {
+            "name": "belko",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=belko",
+            "categories": ["images"],
+            "id": 40
+        },
+        {
+            "name": "nuezou",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=nuezou",
+            "categories": ["images"],
+            "id": 41
+        },
+        {
+            "name": "paranoiddroid",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=paranoiddroid",
+            "categories": ["images"],
+            "id": 42
+        },
+        {
+            "name": "muunai",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=muunai",
+            "categories": ["images"],
+            "id": 43
+        },
+        {
+            "name": "noaharbre",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=noaharbre",
+            "categories": ["images"],
+            "id": 44
+        },
+        {
+            "name": "bokuman",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=bokuman",
+            "categories": ["images"],
+            "id": 45
+        },
+        {
+            "name": "Shexyo",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Shexyo",
+            "categories": ["images"],
+            "id": 46
+        },
+        {
+            "name": "kanachirou",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=kanachirou",
+            "categories": ["images"],
+            "id": 47
+        },
+        {
+            "name": "tnolize",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=tnolize",
+            "categories": ["images"],
+            "id": 48
+        },
+        {
+            "name": "tehhank",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=tehhank",
+            "categories": ["images"],
+            "id": 49
+        },
+        {
+            "name": "queasy_s",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=queasy_s",
+            "categories": ["images"],
+            "id": 50
+        },
+        {
+            "name": "r3dstar",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=r3dstar",
+            "categories": ["images"],
+            "id": 51
+        },
+        {
+            "name": "blue_gk",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=blue_gk",
+            "categories": ["images"],
+            "id": 52
+        },
+        {
+            "name": "shamashiel",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=shamashiel",
+            "categories": ["images"],
+            "id": 53
+        },
+        {
+            "name": "moursho",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=moursho",
+            "categories": ["images"],
+            "id": 54
+        },
+        {
+            "name": "JMG",
+            "url": "https://imhentai.xxx/artist/jmg/",
+            "categories": ["images"],
+            "id": 55
+        },
+        {
+            "name": "amadeen",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=amadeen",
+            "categories": ["images"],
+            "id": 56
+        },
+        {
+            "name": "alamanderarts",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=alamanderarts",
+            "categories": ["images"],
+            "id": 57
+        },
+        {
+            "name": "ai_love_higokko",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=ai_love_higokko",
+            "categories": ["images"],
+            "id": 58
+        },
+        {
+            "name": "stuffyai",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=stuffyai",
+            "categories": ["images"],
+            "id": 59
+        },
+        {
+            "name": "Derpixon",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Derpixon",
+            "categories": ["videos"],
+            "id": 60
+        },
+        {
+            "name": "Skello",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=skello-on-sale",
+            "categories": ["videos"],
+            "id": 61
+        },
+        {
+            "name": "theobrobine",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=theobrobine",
+            "categories": ["videos"],
+            "id": 62
+        },
+        {
+            "name": "Maenchu",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Maenchu",
+            "categories": ["videos"],
+            "id": 63
+        },
+        {
+            "name": "kamuo",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=kamuo",
+            "categories": ["videos"],
+            "id": 64
+        },
+        {
+            "name": "jxh33",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=jxh33",
+            "categories": ["videos"],
+            "id": 65
+        },
+        {
+            "name": "Buckethead_ero",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Buckethead_ero",
+            "categories": ["videos"],
+            "id": 66
+        },
+        {
+            "name": "waero",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=waero",
+            "categories": ["videos"],
+            "id": 67
+        },
+        {
+            "name": "horosuke",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=horosuke_%28toot08%29",
+            "categories": ["videos, images"],
+            "id": 68
+        },
+        {
+            "name": "Laceysx",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Laceysx",
+            "categories": ["videos"],
+            "id": 69
+        },
+        {
+            "name": "Masterploxy",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Masterploxy",
+            "categories": ["videos"],
+            "id": 70
+        },
+        {
+            "name": "rinhee",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=rinhee",
+            "categories": ["videos"],
+            "id": 71
+        },
+        {
+            "name": "jakada",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=jakada",
+            "categories": ["videos"],
+            "id": 72
+        },
+        {
+            "name": "d-art",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=d-art",
+            "categories": ["videos"],
+            "id": 73
+        },
+        {
+            "name": "exga",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=exga",
+            "categories": ["videos"],
+            "id": 74
+        },
+        {
+            "name": "totoro_on",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=totoro_on",
+            "categories": ["videos"],
+            "id": 75
+        },
+        {
+            "name": "thecount",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=thecount",
+            "categories": ["videos"],
+            "id": 76
+        },
+        {
+            "name": "ryanreos",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=ryanreos",
+            "categories": ["videos"],
+            "id": 77
+        },
+        {
+            "name": "bewyx",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=bewyx",
+            "categories": ["videos"],
+            "id": 78
+        },
+        {
+            "name": "grand_cupido",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=grand_cupido",
+            "categories": ["videos"],
+            "id": 79
+        },
+        {
+            "name": "Nagoonimation",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Nagoonimation",
+            "categories": ["videos"],
+            "id": 80
+        },
+        {
+            "name": "threedust",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=threedust",
+            "categories": ["videos"],
+            "id": 81
+        },
+        {
+            "name": "conseitnsfw",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=conseitnsfw",
+            "categories": ["videos"],
+            "id": 82
+        },
+        {
+            "name": "guiltyk",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=guiltyk",
+            "categories": ["videos"],
+            "id": 83
+        },
+        {
+            "name": "shinki",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=shinki_%28artist%29",
+            "categories": ["videos"],
+            "id": 84
+        },
+        {
+            "name": "haruya3d",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=haruya3d",
+            "categories": ["videos"],
+            "id": 85
+        },
+        {
+            "name": "tdontran",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=tdontran",
+            "categories": ["videos"],
+            "id": 86
+        },
+        {
+            "name": "speedoru",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=speedoru",
+            "categories": ["videos", "images"],
+            "id": 87
+        },
+        {
+            "name": "Sakimichan",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=sakimichan",
+            "categories": ["videos", "images"],
+            "id": 88
+        },
+        {
+            "name": "nt00",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=nt00",
+            "categories": ["videos", "images"],
+            "id": 89
+        },
+        {
+            "name": "rebe11",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=rebe11",
+            "categories": ["videos", "images"],
+            "id": 90
+        },
+        {
+            "name": "Vadaboob",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Vadaboob",
+            "categories": ["videos", "images"],
+            "id": 91
+        },
+        {
+            "name": "whisperingfornothing",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=whisperingfornothing",
+            "categories": ["videos", "images"],
+            "id": 92
+        },
+        {
+            "name": "sunsetniva",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=sunsetniva",
+            "categories": ["videos", "images"],
+            "id": 93
+        },
+        {
+            "name": "waterring",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=waterring",
+            "categories": ["videos", "images"],
+            "id": 94
+        },
+        {
+            "name": "Lambda (Kusowarota)",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=lambda_%28kusowarota%29",
+            "categories": ["videos", "images"],
+            "id": 95
+        },
+        {
+            "name": "unfairr",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=unfairr",
+            "categories": ["videos", "images"],
+            "id": 96
+        },
+        {
+            "name": "m-da_s-tarou",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=m-da_s-tarou",
+            "categories": ["videos", "images"],
+            "id": 97
+        },
+        {
+            "name": "kimoshi",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=kimoshi",
+            "categories": ["videos", "images"],
+            "id": 98
+        },
+        {
+            "name": "landidzu",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=landidzu",
+            "categories": ["videos", "images"],
+            "id": 99
+        },
+        {
+            "name": "mapar",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=mapar",
+            "categories": ["videos", "images"],
+            "id": 100
+        },
+        {
+            "name": "Scruffmuhgruff",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=Scruffmuhgruff",
+            "categories": ["videos", "images"],
+            "id": 101
+        },
+        {
+            "name": "kaedeno_yuu",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=kaedeno_yuu",
+            "categories": ["videos", "images"],
+            "id": 102
+        },
+        {
+            "name": "metal_owl",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=metal_owl",
+            "categories": ["videos", "images"],
+            "id": 103
+        },
+        {
+            "name": "soso_(chlgksk110) ",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=soso_(chlgksk110) ",
+            "categories": ["videos", "images"],
+            "id": 104
+        },
+        {
+            "name": "cervina7",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=cervina7",
+            "categories": ["videos", "images"],
+            "id": 105
+        },
+        {
+            "name": "menoziriath",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=menoziriath",
+            "categories": ["videos", "images"],
+            "id": 106
+        },
+        {
+            "name": "minus8",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=minus8",
+            "categories": ["videos", "images"],
+            "id": 107
+        },
+        {
+            "name": "noripachi",
+            "url": "https://nhentai.net/artist/noripachi/",
+            "categories": ["doujin"],
+            "id": 108
+        },
+        {
+            "name": "ratatatat74",
+            "url": "https://nhentai.net/artist/ratatatat74/",
+            "categories": ["doujin"],
+            "id": 109
+        },
+        {
+            "name": "Jet Puri (Puripuri Jet)",
+            "url": "https://rule34.xxx/index.php?page=post&s=list&tags=jet_puri",
+            "categories": ["doujin, images"],
+            "id": 110
+        },
+        {
+            "name": "akazai",
+            "url": "https://imhentai.xxx/artist/akazai/",
+            "categories": ["doujin"],
+            "id": 111
+        },
+        {
+            "name": "Bobtheneet",
+            "url": "https://e-hentai.org/g/2712998/b5d501a962/",
+            "categories": ["images"],
+            "id": 112
+        }
+    ]
 }
